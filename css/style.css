@@ -1,0 +1,56 @@
+
+			@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&family=Kaushan+Script&family=Shadows+Into+Light&display=swap');
+
+			body{
+				margin: 0;
+
+			}
+      section{
+
+      }
+            
+			h1{
+				font-size:55px;
+				margin: 0;
+				height: 60vh;
+                ;
+               letter-spacing: 3px;
+
+}
+             .kio {
+                text-align:center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #87afdade; 
+                font-family: 'Bebas Neue', cursive;
+                background-image: url(../image/nature2.jpg); 
+                background-size:cover;
+                color: #264823;
+}
+
+              .mio{
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #87afdade; 
+               font-family: 'Shadows Into Light', cursive;
+                background-image: url(../image/kio5.jpg); 
+                background-size:cover;
+                color: #dbf9ef;}
+                
+ 
+              .cio{
+             	text-align:center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #87afdade; 
+                font-family: 'Kaushan Script', cursive;
+                background-image: url(../image/pollution3.jpg); 
+                background-size:cover;
+                color: ##c1c1c1;
+ }
+
+	
